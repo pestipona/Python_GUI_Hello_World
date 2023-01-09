@@ -1,4 +1,4 @@
-# Python Game Hello World
+# Python GUI Hello World
 
 ## Description:
 
